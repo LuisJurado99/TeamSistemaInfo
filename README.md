@@ -1,9 +1,9 @@
 # TeamSistemaInfo
 Repositorio creado para la Clase de Sitemas de Información FES Aragón
 Tarea.- Proyecto de desarrollo en equipo usando github 
-Equipo Conformado por: 
-  Bustamante Román Mónica Saray.
-  Fonseca Guizar César Alfonso.
-  Jurado Negrete Luis Alberto.
-  Salgado Garduño Manuel Ivan.
+###Equipo Conformado por: 
+  +Bustamante Román Mónica Saray.
+  +Fonseca Guizar César Alfonso.
+  +Jurado Negrete Luis Alberto.
+  +Salgado Garduño Manuel Ivan.
   
