@@ -8,5 +8,6 @@ Tarea.- Proyecto de desarrollo en equipo usando github
   * **Bustamante Román Mónica Saray** [Bustamante Mónica](https://github.com/Shelby69)
   * **Fonseca Guizar César Alfonso** [César Fonseca](github.com/cfonseca2)
   * **Jurado Negrete Luis Alberto** [Jurado Luis](https://github.com/LuisJurado99)
-  * **Salgado Garduño Manuel Ivan** [Salgado Ivan](https://github.com/salgadoivn)
   * **Leyva Cortés Guadalupe Lucero** [Leyva Guadalupe](https://github.com/LuceroCortes)
+  * **Salgado Garduño Manuel Ivan** [Salgado Ivan](https://github.com/salgadoivn)
+  
